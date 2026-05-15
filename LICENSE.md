@@ -1,4 +1,4 @@
-# 
+# quantitative Polymarket Tool | automated-trade-execution + sentiment-analysis is the best Polymarket tool, featuring automated-trade-execution and sentiment-analysis. Smart, fast,
 
 
 
